@@ -1,3 +1,3 @@
 # INTRO
 
-This is my firt time using github
+This is my firt time using github!
